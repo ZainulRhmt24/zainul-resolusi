@@ -1,4 +1,5 @@
 Zainul Rahmat Saputra
 - Percobaan Github
-- Blablabla
-- sld;asmd
+- sudah belajar html
+- sudah belajat css
+- sedang belajar javaScript
