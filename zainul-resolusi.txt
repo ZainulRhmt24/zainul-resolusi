@@ -1,5 +1,4 @@
 Zainul Rahmat Saputra
 - Percobaan Github
-- sudah belajar html
-- sudah belajat css
 - sedang belajar javaScript
+- belajar react.js
